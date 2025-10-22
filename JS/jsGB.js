@@ -17,7 +17,7 @@ jsGB = {
         //MMU.load("01-special.gb");
         //MMU.load("02-interrupts.gb");
         //MMU.load("03-op sp,hl.gb");
-        MMU.load("04-op r,imm.gb");
+        MMU.load("test.gb");
         //MMU.load("05-op rp.gb");
         //MMU.load("06-ld r,r.gb");
         //MMU.load("07-jr,jp,call,ret,rst.gb");
